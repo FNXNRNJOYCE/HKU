@@ -1,3 +1,4 @@
+This is the guidebook of our repository.
 This repository contains all the source codes of Group 13, including data crawling, data cleaning, and analytical codes such as word frequency analysis and sentiment analysis. 
 
 The first stage involves running two crawler scripts that collect 500 news articles each from Fox News and The Guardian. 
